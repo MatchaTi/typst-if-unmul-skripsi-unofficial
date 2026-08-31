@@ -23,8 +23,8 @@ sebagai salah satu tahapan dalam menyelesaikan pendidikan pada Fakultas
 + Nama dan gelar akademik Koordinator Prodi selaku Koordinator Program Studi #program-studi.
 + #pembimbing-1 selaku Pembimbing I yang selalu memberikan arahan dan masukan terhadap penelitian ini.
 + #pembimbing-2 selaku Pembimbing II atas masukan terhadap penelitian ini.
-+ Nama dan gelar akademik Dosen Penguji I selaku Penguji I atas saran dan masukan terhadap penelitian ini.
-+ Nama dan gelar akademik Dosen Penguji II selaku Penguji II atas saran dan masukan terhadap penelitian ini.
++ #penguji-1 selaku Penguji I atas saran dan masukan terhadap penelitian ini.
++ #penguji-2 selaku Penguji II atas saran dan masukan terhadap penelitian ini.
 + Segenap Dosen Program Studi #program-studi, yang telah memberikan ilmu pengetahuan selama mengikuti perkuliahan.
 + Rekan-rekan seperjuangan yang terus memberikan dukungan semangat demi terselesainya tugas ini.
 

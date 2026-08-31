@@ -18,6 +18,9 @@
 #let pembimbing-1-nip = "NIP..."
 #let pembimbing-2 = "Nama Pembimbing II lengkap gelar."
 #let pembimbing-2-nip = "NIP..."
+#let penguji-1 = "Nama Penguji I lengkap gelar."
+#let penguji-1-nip = "NIP..."
+#let penguji-2 = "Nama Penguji II lengkap gelar."
 
 #let dekan = "Prof. Dr. Ir. H. Tamrin, ST., MT., IPU., ASEAN Eng., APEC Eng"
 #let dekan-nip = "NIP 197002272000121001"
