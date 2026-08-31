@@ -92,9 +92,9 @@
   #v(1em)
 
   #set par(leading: 0.65em, first-line-indent: 0cm)
-  Abstracts must be written in both Indonesian and English. The abstract consists of seven key sections: background (1–5 lines); research objective (1–2 lines); methods used (1–3 lines); data used (1–2 lines); experimental results highlighting the study's unique features (1–7 lines); analysis results (1–7 lines); and the effect or impact of the analysis results (1–3 lines).
+  _Abstracts must be written in both Indonesian and English. The abstract consists of seven key sections: background (1–5 lines); research objective (1–2 lines); methods used (1–3 lines); data used (1–2 lines); experimental results highlighting the study's unique features (1–7 lines); analysis results (1–7 lines); and the effect or impact of the analysis results (1–3 lines)._
 
   #v(1em)
-  *Keywords:* Keyword 1, Keyword 2, Keyword 3, Keyword 4, Keyword 5
+  _*Keywords:* Keyword 1, Keyword 2, Keyword 3, Keyword 4, Keyword 5_
   #set par(leading: 1em)
 ]
