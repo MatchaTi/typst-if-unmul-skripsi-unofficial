@@ -42,3 +42,14 @@
   ]
   v(0.5em)
 }
+
+#let alphabeticNumbering(nomor, judul, bold: false) = {
+  [
+    #set par(first-line-indent: 0em)
+    #text(size: 13pt, weight: if bold { "bold" } else { "regular" })[
+      #box(width: indent-par)[#nomor] #judul
+    ]
+  ]
+
+  v(0.5em)
+}
