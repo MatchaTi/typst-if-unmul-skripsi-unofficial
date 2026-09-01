@@ -50,6 +50,4 @@
       #box(width: indent-par)[#nomor] #judul
     ]
   ]
-
-  v(0.5em)
 }
