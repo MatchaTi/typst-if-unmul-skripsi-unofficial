@@ -11,6 +11,7 @@ Semua format sudah diatur sedemikian rupa agar sesuai dengan format skripsi info
 - Format skripsi sudah sesuai dengan format skripsi informatika Unmul.
 - Gonta-ganti data kek (nama, judul skripsi, dosen pembimbing, dll) gampang karena pakai file `data.typ` untuk menyimpan data skripsi.
 - Kalau ada perubahan format, tinggal ubah di file `page-settings.typ` aja.
+- Daftar isi, daftar gambar, daftar tabel, dan daftar pustaka otomatis.
 - Auto numbering untuk gambar dan tabel.
 - Untuk sekarang baru ada template skripsi, belum ada untuk yang proposal. Feel free buat bikin template proposal skripsi sendiri, nanti bisa di PR ke repo ini.
 

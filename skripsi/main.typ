@@ -61,6 +61,7 @@
 
 #show figure.where(kind: table): set figure.caption(position: top)
 #set enum(indent: 0cm, body-indent: indent-par - 0.5em)
+#set list(indent: 0cm, body-indent: indent-par - 0.5em)
 
 #set page(numbering: "i")
 #counter(page).update(1)
