@@ -5,6 +5,7 @@
 // =====================================================================
 #page-title("KATA PENGANTAR")
 
+#show par: set par(leading: 0.5em)
 
 Puji syukur kepada Allah SWT, Tuhan Yang Maha Esa sehingga dapat
 menyelesaikan skripsi dengan judul "#judul-skripsi". Skripsi ini disusun
