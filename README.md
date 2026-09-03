@@ -31,7 +31,7 @@ git clone https://github.com/MatchaTi/typst-if-unmul-skripsi-unofficial
 - Kebutuhan penulisan ada di folder `pages` dan `bab`.
 - Untuk format sitasi menggunakan dari [mas-mas ini](https://github.com/zeerafle/if-citation-style?tab=readme-ov-file).
 - Karena saya pakai zotero, dari zotero export ke bibtex. Lalu file `bib` simpan di folder ini.
-- Last, export ke PDF `typst export main.typ` atau klik tombol export di Typst.
+- Last, export ke PDF `typst compile main.typ` atau klik tombol export di Typst.
 - Happy writing skripsi!
 
 がんばって。
